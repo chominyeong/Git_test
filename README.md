@@ -58,10 +58,10 @@
 
 7. 각자의 브랜치에서 생성한 코드를 main branch로 merge하기 전에, Pull request를 통해 협업자들의 코드 리뷰 및 확인을 한 후에야 merge가 가능하다.
 깃허브 상단에 pull requests 클릭
-![image](https://github.com/chominyeong/Git_test/assets/81460659/a9800e05-443f-41e7-8513-9582f43b32a4)
+<p align="center"><img src="https://ifh.cc/g/YzGCJ8.png" width="800" height="55"/></p>
 
 새로운 브랜치에서 main으로 merge하고 싶다는 pull request 전송
-![image](https://github.com/chominyeong/Git_test/assets/81460659/cd862480-eeea-4b65-b5cf-adbf2b8afbc7)
+<p align="center"><img src="https://ifh.cc/g/jOjoxQ.png" width="800" height="340"/></p>
 Create pull request 클릭
 <br>
 <br>
