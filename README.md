@@ -93,7 +93,7 @@ main branch에서 merge된 것을 확인!
  
 
 ## 깃허브에서 변경된 내용 vscode에서 pull 하기
-![image](https://github.com/chominyeong/Git_test/assets/81460659/62fa2ae5-f4b0-421c-a26a-e7a24960a396)
+<p align="center"><img src="https://ifh.cc/g/YobXDT.png" width="800" height="660"/></p>  
 
  
 <br>
