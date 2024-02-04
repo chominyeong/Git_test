@@ -1,4 +1,6 @@
-깃을 해보작오
+<p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></p>
+<p align="center">해보작오</p>
+<br>
 
 ## 깃허브 레포지토리 복제
 1. 깃허브 레포 생성 → 주소 복제
