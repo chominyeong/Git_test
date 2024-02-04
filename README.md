@@ -58,10 +58,10 @@
 
 7. 각자의 브랜치에서 생성한 코드를 main branch로 merge하기 전에, Pull request를 통해 협업자들의 코드 리뷰 및 확인을 한 후에야 merge가 가능하다.
 깃허브 상단에 pull requests 클릭
-<p align="center"><img src="https://ifh.cc/g/YzGCJ8.png" width="800" height="55"/></p>
+<p align="center"><img src="https://ifh.cc/g/YzGCJ8.png" width="800" height="55"/></p>  
 
 새로운 브랜치에서 main으로 merge하고 싶다는 pull request 전송
-<p align="center"><img src="https://ifh.cc/g/jOjoxQ.png" width="800" height="340"/></p>
+![image](https://github.com/chominyeong/Git_test/assets/81460659/6a17dd02-c239-47bc-b72a-7be698747841)
 Create pull request 클릭
 <br>
 <br>
@@ -69,19 +69,18 @@ Create pull request 클릭
 8. 아무 문제가 없으면 merge한다.
 ![image](https://github.com/chominyeong/Git_test/assets/81460659/090e2c55-1313-418a-80ec-41fa660c48f9)
 main branch에서 merge된 것을 확인!
-![image](https://github.com/chominyeong/Git_test/assets/81460659/dcc53a45-0fb1-4aa3-850f-86f6aec9b60c)
 <br>
 
-10. 만든 브랜치는 삭제한다.
-
+9. 만든 브랜치는 삭제한다.
+<img src="https://ifh.cc/g/yqndt8.png" width="400" height="40"/>
 
 오류발생
+→ 현재 브랜치가 삭제하고자 하는 브랜치이기 때문에(?) 브랜치를 전환해야 한다고 한다.   
+전환하기   
+<img src="https://ifh.cc/g/JfZvjp.png" width="400" height="100"/>
 
-→ 현재 브랜치가 삭제하고자 하는 브랜치이기 때문에(?) 브랜치를 전환해야 한다고 한다.
-
-
-확인하기
-
+확인하기   
+<img src="https://ifh.cc/g/QH38Xt.png" width="300" height="40"/>
 
  
 
@@ -92,8 +91,7 @@ main branch에서 merge된 것을 확인!
  
 
 ## 깃허브에서 변경된 내용 vscode에서 pull 하기
-
- 
+![image](https://github.com/chominyeong/Git_test/assets/81460659/62fa2ae5-f4b0-421c-a26a-e7a24960a396)
 
  
 <br>
@@ -102,28 +100,27 @@ main branch에서 merge된 것을 확인!
 
 ## 터미널 코드로 커밋, 푸시하기
 1. 항상 저장소가 깃 클론이 되었는지 확인하기
-
+<img src="https://ifh.cc/g/N6WLp4.png" width="400" height="70"/>
 
  
 
 2. 변경사항 추가
-
-
-
+<img src="https://ifh.cc/g/l8Yh48.png" width="300" height="35"/>   
 왼쪽에 로고도 +에서 -로 바뀌었을 거임
-
+<p align="center"><img src="https://ifh.cc/g/DVx9rN.png" width="300" height="300"/></p>
  
 
 3. 커밋하기
-
+<img src="https://ifh.cc/g/3vZRk5.png" width="400" height="70"/>
 
  
 
 4. 푸시하기
-
+<img src="https://ifh.cc/g/jOf7LB.png" width="400" height="165"/>
 
  
 
 5. 확인하기
+![image](https://github.com/chominyeong/Git_test/assets/81460659/d783c575-5d00-4ff2-b7cd-de2dfd8fce31)
 
 
