@@ -93,7 +93,7 @@ main branch에서 merge된 것을 확인!
  
 
 ## 깃허브에서 변경된 내용 vscode에서 pull 하기
-<p align="center"><img src="https://ifh.cc/g/YobXDT.png" width="800" height="660"/></p>  
+<p align="center"><img src="https://ifh.cc/g/YobXDT.png" width="600" height="500"/></p>  
 
  
 <br>
